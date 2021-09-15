@@ -1,7 +1,8 @@
 ## Chris
 Olá meu nome é Christopher mas pode me chamar de Chris. Aluno da querida [Trybe](https://www.betrybe.com/ "Best school")
 
-
+## Entre em contato
+Se quiser entrar em contato pode me adicionar no [Linkedin](https://www.linkedin.com/in/christopher-moura "www.linkedin.com/in/christopher-moura") ou se preferir meu email é chris.moura00@hotmail.com
 
 ## Histórico do Github
 
@@ -10,8 +11,3 @@ Olá meu nome é Christopher mas pode me chamar de Chris. Aluno da querida [Tryb
 
 ## Pricipais tecnologias 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismoura2000&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Entre em contato
-Se quiser entrar em contato pode me adicionar no [Linkedin](https://www.linkedin.com/in/christopher-moura)
-
-
