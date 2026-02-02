@@ -1,13 +1,25 @@
-## Olá, sou o Christopher
-Sou desenvolvedor web full stack formado pela [Trybe](https://www.betrybe.com), onde desenvolvi habilidades técnicas (hard skills) e sociocomportamentais (soft skills). Algumas tecnologias que aprendi estudando font-end foram: HTML, CSS, JS, React, RTL, Redux, Context API e React Hooks. Outras tecnologias que aprendi estudando Back-end, a qual eu tenho uma leve preferência, foram: Node.js, Express, MySQL, MongoDB, ORM, JWT. Aprendi também algumas ferramentas estudando Ciência da Computação, como: Python, Raspagem de Dados, Algoritmos e Estrutura de Dados. Atualmente estou procurando trabalhar com as ferramentas já aprendidas para aprofundar meus conhecimentos, além de aprender novas tecnologias.
+## Hey, eu sou o Chris
+### Conhecimentos Técnicos na Área de Desenvolvimento
+ - Front-End: HTML, CSS, JS, React, RTL, Redux, Context API e React Hooks;
+ - Back-End: Node.js, Express, MySQL, MongoDB, ORM, JWT;
+ - Ciência de dados: Python, Raspagem de Dados, Algoritmos e Estrutura de Dados.
 
-## Entre em contato
-Se quiser falar comigo pode me adicionar no [Linkedin](https://www.linkedin.com/in/christopher-moura "www.linkedin.com/in/christopher-moura") ou se preferir meu email é chris.moura00@hotmail.com
+### Conhecimentos Técnicos na Área de Segurança
+ - Ferramentas: Wireshark, NMAP, Burp Suite, Hydra, Metasploit, Kali Linux;
+ - Servidores: SSH, DHCP, DNS, EMAIL, WEB, VoIP, CFTV;
+ - Governança: ITIL, COBIT.
 
-## Histórico do Github
+### Conhecimentos Pessoais e Curiosidades
+ - Faixa preta de Kung-Fu Tradicional, mas parei de treinar. (Pretendo começar Jiu-Jitsu);
+ - Sei tocar poucas músicas no violão. (E muita vontade de aprender a tocar piano);
+ - YouTuber novato [Canal-YT](https://www.youtube.com/@chrisomoura) (Edito vídeos no movavi);
+ - Já fui fotógrafo (Aprendí a editar fotos no Photoshop);
+ - Adoro jogar futebol e vôlei, além de andar de bicicleta;
+ - Fã de carteirinha do Pro. Dr. Miguel Ângelo Laporta Nicolelis.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismoura2000&show_icons=true&theme=radical)
+## Contato
+[Linkedin](https://www.linkedin.com/in/chrismoura/)
 
 
-## Pricipais tecnologias 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismoura2000&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+_Atualizado em 01/02/2026_
+
